@@ -38,7 +38,7 @@ Offset Explorer:
  
  Para acessar a aplicação: localhost:8080
  
-## Acessando o swagger via bronwser (web)
+## Acessando o swagger via bronwser
 localhost:8080/swagger-ui.html
  
  

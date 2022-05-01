@@ -24,7 +24,7 @@ public class ParametroController {
         return ResponseEntity.ok(entidade);
     }
 
-    @GetMapping("/consulta")
+    @GetMapping("/consultar")
     public ResponseEntity<ParametroModel> consulta(@RequestParam String key){
         Optional<ParametroModel> optParametro = repository.findById(key);
         if(optParametro.isEmpty()){
