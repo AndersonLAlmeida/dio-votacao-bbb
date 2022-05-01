@@ -9,6 +9,7 @@
 - Spring Boot
 - Robo 3T
 - Offset Explorer
+- Postman
 ```
 
 ## Iniciando o MongoDB e Kafka pelo Docker
@@ -32,4 +33,7 @@
 
 Offset Explorer:
     - Criar uma configuração na aplicação
+ 
+ Para acessar a aplicação: localhost:8080
+ 
  
